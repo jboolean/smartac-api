@@ -1,0 +1,54 @@
+{
+	"ImportPath": "github.com/jboolean/smartac-api",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v60",
+	"Deps": [
+		{
+			"ImportPath": "github.com/PuerkitoBio/goquery",
+			"Comment": "v0.3.2-93-gf0d7573",
+			"Rev": "f0d75731e0db647903c8611d00c7b85002751317"
+		},
+		{
+			"ImportPath": "github.com/andybalholm/cascadia",
+			"Rev": "3ad29d1ad1c4f2023e355603324348cf1f4b2d48"
+		},
+		{
+			"ImportPath": "github.com/headzoo/surf",
+			"Comment": "0.5.6-14-gd8096fb",
+			"Rev": "d8096fb5a962ff8edc05a5ebd49b1ebd11ce0389"
+		},
+		{
+			"ImportPath": "github.com/headzoo/surf/agent",
+			"Comment": "0.5.6-14-gd8096fb",
+			"Rev": "d8096fb5a962ff8edc05a5ebd49b1ebd11ce0389"
+		},
+		{
+			"ImportPath": "github.com/headzoo/surf/browser",
+			"Comment": "0.5.6-14-gd8096fb",
+			"Rev": "d8096fb5a962ff8edc05a5ebd49b1ebd11ce0389"
+		},
+		{
+			"ImportPath": "github.com/headzoo/surf/errors",
+			"Comment": "0.5.6-14-gd8096fb",
+			"Rev": "d8096fb5a962ff8edc05a5ebd49b1ebd11ce0389"
+		},
+		{
+			"ImportPath": "github.com/headzoo/surf/jar",
+			"Comment": "0.5.6-14-gd8096fb",
+			"Rev": "d8096fb5a962ff8edc05a5ebd49b1ebd11ce0389"
+		},
+		{
+			"ImportPath": "github.com/headzoo/surf/util",
+			"Comment": "0.5.6-14-gd8096fb",
+			"Rev": "d8096fb5a962ff8edc05a5ebd49b1ebd11ce0389"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "35b06af0720201bc2f326773a80767387544f8c4"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html/atom",
+			"Rev": "35b06af0720201bc2f326773a80767387544f8c4"
+		}
+	]
+}
